@@ -1,5 +1,5 @@
 package ma.emsi.samih;
 
-interface Assistant {
+public interface Assistant {
     String chat(String userMessage);
 }
